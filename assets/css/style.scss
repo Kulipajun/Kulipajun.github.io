@@ -162,12 +162,14 @@ a { text-decoration:none; }
     
     .name-zone { margin-top: -2rem; }
 
-    .name-zone h1, 
+    .name-zone h1 {
+        font-size: 30px;
+    }
     .name-zone h2 {
         margin: 0;
         font-size: 12px;
         text-align: center;
-        max-width: 70%;
+        max-width: 50%;
     }
     
     .name-zone h1 { color: var(--theme3-dark); }
