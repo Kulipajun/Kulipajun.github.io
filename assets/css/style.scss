@@ -165,7 +165,9 @@ a { text-decoration:none; }
     .name-zone h1, 
     .name-zone h2 {
         margin: 0;
-        font-size: 12px
+        font-size: 12px;
+        text-align: center;
+        max-width: 70%;
     }
     
     .name-zone h1 { color: var(--theme3-dark); }
