@@ -1,14 +1,16 @@
 subject: Education
-listing-order: 1
+listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Keio University, Master of Media and Governance, Graduate School of Media and Governance (SFC)
+  - title: Keio University, Master of Media and Governance
     description:
+      - Graduate School of Media and Governance (SFC)
       - Sociable Robots Lab
       - Prof. Kazunori TAKASHIO
     date: Apr. 2023 - Mar. 2025
-  - title: The University of Tokyo, Special Auditor Student, Graduate School of Frontier Science
+  - title: The University of Tokyo, Special Auditor Student
     description:
+      - Graduate School of Frontier Science
       - Human & Environment Informatics Lab.
       - Prof. Yuki BAN
     date: Sep. 2023 - Aug. 2024
