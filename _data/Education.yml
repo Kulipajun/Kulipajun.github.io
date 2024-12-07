@@ -4,13 +4,13 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Keio University, Master of Media and Governance, Graduate School of Media and Governance (SFC)
     description:
-      - Lab: Sociable Robots Lab
-      - Supervisor: Prof. Kazunori TAKASHIO
+      - Sociable Robots Lab
+      - Prof. Kazunori TAKASHIO
     date: Apr. 2023 - Mar. 2025
   - title: The University of Tokyo, Special Auditor Student, Graduate School of Frontier Science
     description:
-      - Lab: Human & Environment Informatics Lab.
-      - Supervisor: Prof. Yuki BAN
+      - Human & Environment Informatics Lab.
+      - Prof. Yuki BAN
     date: Sep. 2023 - Aug. 2024
   - title: Jiangsu University of Science and Technology, BE in Computer Science and Technology
     grade: "**GPA**: `3.29`"
